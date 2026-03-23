@@ -29,6 +29,8 @@
 ---
 
 ## Ссылки на репозитории
+- **Репозиторий документации:** https://github.com/fpmi-tpmp2026/tpmp-gr11a-lab4-shamruk-scheglov-team
+- **Репозиторий кода:** https://github.com/Polina707-lab/tpmp-lab4-work
 
 - **Репозиторий документации:**  
   https://github.com/fpmi-tpmp2026/tpmg-gr11a-lab4-shamruk-scheglov-team  
